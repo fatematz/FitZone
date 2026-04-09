@@ -1,16 +1,35 @@
-# React + Vite
+# FitZone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Demo:** https://fitzone-001.netlify.app/
 
-Currently, two official plugins are available:
+## 📝 Project Overview
+FitZone is a frontend web application that provides users with fitness-related information in an organized and user-friendly way. It is built using React and Vite, offering a fast development experience with hot module replacement (HMR).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 💻 Technology Stack
+Frontend: React  
+Build Tool: Vite  
+Languages: JavaScript, HTML, CSS  
+Linting: ESLint
 
-## React Compiler
+## ✨ Main Features
+- Fast loading and responsive UI  
+- Displays fitness-related information  
+- Modern React component structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Dependencies
+react, react-dom, @vitejs/plugin-react / @vitejs/plugin-react-swc, eslint
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
+Clone the repository: git clone https://github.com/fatematz/FitZone.git  
+Navigate to the project folder: cd FitZone  
+Install dependencies: npm install  
+Start the development server: npm run dev  
+Open the app in your browser: http://localhost:5173
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🔗 Relevant Links
+Repository Link: https://github.com/fatematz/FitZone  
+Live Demo: https://fitzone-001.netlify.app/
+
+<img width="1920" height="1486" alt="FitZone" src="https://github.com/user-attachments/assets/ed937360-f9d8-4ae6-a061-8c18e921b193" />
+
